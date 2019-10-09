@@ -1,1 +1,1 @@
-# Machine Learning practice
+# Machine Learning practice at Lobachevsky University
